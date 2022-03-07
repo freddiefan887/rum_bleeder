@@ -8,18 +8,18 @@
 
 ## Need To Fill
 #Sync - Requierd
-ROM_NAME=""
-ANDROID_VERSION=""
-REPO_URL=""
-REPO_BRANCH=""
-MANIFEST_URL=""
-MANIFEST_BRANCH=""
+ROM_NAME="LineageOS"
+ANDROID_VERSION="12"
+REPO_URL="https://github.com/LineageOS/android.git"
+REPO_BRANCH="lineage-19.0"
+MANIFEST_URL="https://github.com/qushxgrx/local_manifest.xml"
+MANIFEST_BRANCH="main"
 
 #Build - Requierd 
-DEVICE_CODENAME=""
-AUTO_BRINGUP=""
-LUNCH_NAME=""
-BACON_NAME=""
+DEVICE_CODENAME="moon"
+AUTO_BRINGUP="N"
+LUNCH_NAME="lineage_moon-userdebug"
+BACON_NAME="bacon"
 
 #Upload stuff - Optional
 UPLOAD_TYPE=""
