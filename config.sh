@@ -12,7 +12,7 @@ ROM_NAME="LineageOS"
 ANDROID_VERSION="12"
 REPO_URL="https://github.com/LineageOS/android.git"
 REPO_BRANCH="lineage-19.0"
-MANIFEST_URL="https://github.com/qushxgrx/local_manifest.xml"
+MANIFEST_URL="https://github.com/freddiefan887/local_manifest.xml"
 MANIFEST_BRANCH="main"
 
 #Build - Requierd 
